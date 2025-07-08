@@ -10,7 +10,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `Snapshots:`
 <h3>
-<img src="https://github.com/almarpa/RickAndMortyApp/blob/develop/composeApp/src/commonMain/snapshots/1.png?raw=true" >
+<img src="https://github.com/almarpa/RickAndMortyApp/blob/develop/composeApp/src/commonMain/snapshots/1.png?raw=true" width=50% height=50%>
 <img src="https://github.com/almarpa/RickAndMortyApp/blob/develop/composeApp/src/commonMain/snapshots/2.png?raw=true" width=30% height=200%>
 <img src="https://github.com/almarpa/RickAndMortyApp/blob/develop/composeApp/src/commonMain/snapshots/3.png?raw=true" width=30% height=200%>
 <img src="https://github.com/almarpa/RickAndMortyApp/blob/develop/composeApp/src/commonMain/snapshots/4.png?raw=true" width=30% height=100%>
